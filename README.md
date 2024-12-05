@@ -1,7 +1,6 @@
 # Jwt auth using django and react
 
-### Secure
+### Secure and tested
 ### Fast and using celery system
 ### Dockerized
 ### Using Postgresql
-### Tested
